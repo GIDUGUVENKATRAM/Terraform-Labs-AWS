@@ -1,2 +1,2 @@
 # Terraform-Labs-AWS
-Created Terraform Script for different scenarios
+Developing Terraform configurations to automate AWS resources using Infrastructure as Code (IaC) best practices.
